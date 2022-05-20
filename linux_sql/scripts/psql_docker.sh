@@ -1,21 +1,17 @@
-#! /bin/sh
-
+#!/bin/sh
 
 cmd=$1
 db_username=$2
 db_password=$3
 
 
-sudo systemctl status docker || systemctl ...
-
+sudo systemctl status docker || sudo systemctl start docker
 
 docker container inspect jrvs-psql
 container_status=$?
 
-
 case $cmd in
   create)
-
 
   if [ $container_status -eq 0 ]; then
 		echo 'Container already exists'
@@ -28,18 +24,21 @@ case $cmd in
     exit 1
   fi
 
-  #Create container
-	docker volume ....
-	docker run ....
+	docker volume create pgdata
+	docker run  --name jrvs-psql -e POSTGRES_PASSWORD=$PGPASSWORD -d -v pgdata:/var/lib/postgresql/data -p 5432:5432 postgres:9.6-alpine
 	exit $?
 	;;
 
   start|stop)
 
-  if [ $container_status ...
-  ...
+  if [ $container_status -eq 0 ]; then
+	 echo 'Container has been created'
+	 exit 1
+  fi
 
-	docker container $cmd jrvs-psql
+
+
+docker container $cmd jrvs-psql
 	exit $?
 	;;
 
@@ -48,4 +47,5 @@ case $cmd in
 	echo 'Commands: start|stop|create'
 	exit 1
 	;;
+
 esac
