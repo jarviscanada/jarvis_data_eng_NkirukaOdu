@@ -46,12 +46,12 @@ public class JavaGrepLambdaImp extends JavaGrepImp{
     }
 
     @Override
-    public List<String> readLines(File inpputfile) {
+    public List<String> readLines(File inputFile) {
         List<String> list = new ArrayList<>();
 
         try
         {
-            Stream<String> stream = Files.lines(inpputfile.toPath());
+            Stream<String> stream = Files.lines(inputFile.toPath());
             {
                 list = stream.collect(Collectors.toList());
             }
