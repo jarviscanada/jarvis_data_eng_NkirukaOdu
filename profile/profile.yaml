@@ -1,0 +1,116 @@
+# Preferred name (Characters only)
+name: "Nkiruka Odu"
+# Your GitHub repo root URL
+github_repo_root_url: https://github.com/jarviscanada/jarvis_data_eng_NkirukaOdu
+
+# Introduce yourself, your academic and professional background.
+# What excites you about the software industry and your passion. At least 80 words
+summary:  The field of software engineering is exciting and also comes with a lot of expectations. I love the fact that It allows me to be creative and productive. I am diligent and possess strong agility for learning. Working as a junior developer at Jarvis exposed me to the entire spectrum of software development, having worked on different projects using technologies like Python, Java, SQL, Bash, Maven, Docker, and Agile methodology, my problem solving skills improved a lot while working with Jarvis. Learning new skills and technologies excites me a lot and I hope to keep working hard to always meet up with the most needed industrial skills and technologies. 
+# Group your skills by level.
+# Your skills can be anything software related (e.g. language, frameworks, methodologies, software, etc.).
+skills:
+  # At least 5 skills
+  proficient:
+    - Python
+    - Linux/Bash
+    - RDBMS/SQL
+    - Agile/Scrum
+    - Git/Github
+  # At least 5 skills
+  competent:
+    - Maven
+    - HTML5/CSS
+    - Pandas/Numpy
+    - GitFlow
+    - Data Visualization
+  # At least 5 skills
+  familiar:
+    - Java
+    - Docker/VMWare
+    - Google Cloud Platform
+    - Dash
+    - NoSQL
+
+# List of Jarvis projects
+jarvis_projects:
+  - name: "Cluster Monitor"
+    git_url: "/linux_sql"
+    # The project description allows hiring managers to understand your project and technologies you used(e.g. programming languages, libraries, algorithms, hardware, tools, etc.).
+    # The project description must start with an action verb (https://bit.ly/3guO98u)
+    description:  Implemented a Linux cluster monitoring agent that runs on centos7 through the google cloud platform. LCMA helps to collect hardware information and then provides the resource usage information of the host computer on a server. LCMA is used by Linux cluster agents to monitor the resource usage of each host computer on the server every 5 minutes. The project was developed using bash scripts, SQL(PostgreSQL), git/git-flow, docker, and the Google cloud platform. The project was tested using some bash commands on the terminal and was deployed to git using crontab to automate its functionality. .
+  - name: "Core Java Apps"
+    git_url: "/core_java"
+    description:
+      - "Twitter App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam."
+      - "JDBC App: Implemented a JDBC App that uses the Java Database Connectivity (JDBC) to perform queries on a PostgreSQL database containing customer records and their orders from a retail store. The CRUD (Create Read Update Delete) operations were implemented using Data Access Objects(DAO) and Data Transfer Objects (DTO). I used a containerized PostgreSQL while maven handled all the project dependencies. The project was implemented using Java core, Maven, JDBC, PostgreSQL, Docker, and DBeaver. "
+      - "Grep App: Worked in an Agile team to implement a grep app that recursively searches through each line of a text file and returns a sequence of strings matching the user-specified input. This grep project was written using Java 8 and utilises new Java 8 features such as Lambda, Collections, and Streams API that improve parallel data processing. Maven was used for managing the project build, and handling dependencies. The project was deployed using docker on the docker hub"
+  - name: "Springboot App"
+    git_url: "/springboot"
+    description: ""
+  - name: "Python Data Analytics"
+    git_url: "/python_data_anlytics"
+    description: ""
+  - name: "Hadoop"
+    git_url: "/hadoop"
+    description: ""
+  - name: "Spark"
+    git_url: "/spark"
+    description: ""
+  - name: "Cloud/DevOps"
+    git_url: "/cloud_devops"
+    description: ""
+
+# List of personal or academic projects
+# Feel free to add more projects
+highlighted_projects:
+    #project name
+  - name: "Web-based App to predict credit card defaulters"
+    #URL is optional
+    git_url: "https://github.com/write2nk/Unit2-example"
+    # The project description must start with an action verb (https://bit.ly/3guO98u)
+    description: Implemented an XGBoost model to predict customers who will default on their credit card payments. The project was implemented using Python, git, Dash, and a machine learning model, The predictors used include The model was trained and tested using a real-world dataset and the predictive result showed a 96% accuracy. The project was deployed to Heroku.
+  - name: "Machine Learning web-based app to predict interest rate"
+    git_url: "https://github.com/write2nk/predict_ir"
+    description:  Implemented a machine learning-based app for predicting interest rates for potential customers who may wish to be lent money by the lending club. The project was implemented using Random Forest Classifier, python, bash, and git. The model was trained, tested, and validated using the real-world dataset. The project was deployed to Heroku.
+
+#List of professional experience
+#The job description allows hiring managers to understand your job and the technologies you used(e.g. programming languages, libraries, algorithms, hardware, tools, etc.).
+#The description must be more than 25 words. If your experience is not software related, please focus on soft skills and achievements (e.g. team collaboration, problem-solving, improvements, communication).
+professional_experience:
+  #Write your Jarvis role as a professional experience rather than training.
+  - title: "Software Developer"
+    company: "Jarvis"
+    duration: "2022-present"
+    # The project description must start with an action verb (https://bit.ly/3guO98u)
+    description: "Worked in an Agile/scrum environment to implement software solutions that solve different problems. The major technologies used include Git/Github, Bash/Linux, PostgreSQL, Java, Maven, and JDBC."
+  - title: "Front-end Web Developer Intern"
+    company: "RFID Research Centre"
+    duration: "2018"
+    description: "Worked in an Agile team in the development and deployment of high scalable web solutions that enabled some medium sized businesses to gain an online presence that increased their business value"
+
+#List of edcuation
+education: 
+  - school_name: "Ebonyi State University"
+    duration: "2011-2015"
+    degree: "Bachelor of Sciences"
+    department: "Computer Science"
+    # optional
+    awards_achievements: 
+      - "GPA: 4.19/5.0"
+  - school_name: "African University of Science and Technology"
+    duration: "2016-2017"
+    degree: "Master of Sciences"
+    department: "Computer Science"
+    awards_achievements: 
+      - "GPA: 3.5/4"
+      - "African Capacity Building Foundation Scholarship Award"
+#Optional section
+others:
+    #category
+  - title: "Certificates"
+    #list of items
+    bullets:
+      - "Udacity Frontend Web Development (2018)"
+  - title: "Activities/Hobbies"
+    bullets:
+      - "Volunteer, Masakhane NER data annotation"
