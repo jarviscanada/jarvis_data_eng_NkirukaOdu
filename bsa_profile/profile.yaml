@@ -1,0 +1,105 @@
+# Preferred name (Characters only)
+name: "Nkiruka Odu"
+# Your GitHub repo root URL
+github_repo_root_url: https://github.com/jarviscanada/jarvis_data_eng_NkirukaOdu
+
+# Introduce yourself (80-120 words)
+# Suggestions: you should 
+# 1) describe your academic and work experience (please focus on transferable/job related tech and soft skills only)
+# 2) explain your passion for the role you are looking for (e.g. developer, BSA, QA, tech support, etc.)
+# 3) mention what kind of role you are looking for
+# 4) briefly talk about your qualifications (soft and tech) to justify why the hiring manager should hire your 
+summary: Interfacing between business and technology interests me a lot. I obtained a master's degree in computer science from the African University of Science and Technology. I have about 3 years of working experience as an assistant program coordinator at Nile University; where I worked with other team members to prepare proposals, projects, and organize other academic activities. This experience got me exposed to great working culture and best industrial practices which improved my creative thinking, communication,  and documentation skills. Working as a junior developer at Jarvis exposed me to the entire spectrum of software development processes, having the great opportunity to work in an Agile/Scrum environment where I collaborated with other team members to develop business solutions using technologies like Python, Pandas, Numpy, SQL, Bash, and Docker. Currently, I have a passion to work in an environment where I can actively collaborate with other team members to develop efficient business information technology systems by fostering the active use of emerging technologies and techniques to help them achieve strategic business goals. Therefore, I am currently seeking a full-time role as a Business System Analyst (BSA).  I am proficient in Python, SQL, data modeling, data analytics, and statistics. I am an excellent communicator, together with good documentation and presentation skills, which is required to liaise well with the stakeholders, especially during requirement elicitation and analysis. Learning new skills and how to apply them to solve real-world problems motivates me a lot!.
+
+skills:
+  # Please include 
+  #     1)soft skills (e.g. elicitation, communicaiton, collaberation, interpersonal, etc ) 
+  #     2) business tools (such as Excel, Viso, etc.)
+  Business Skills:
+    - Interpersonal 
+    - Communication
+    - Documentaion/Presentation
+    - Requirement Elicitation
+    - Agile/Scrum
+  # Please add more data related skills, such as Python, Tableau, R, Matlab, AI, ML, Statistics, etc.
+  # You can also add some programming skills, such as programming languages, GIT, Linux, Cloud Platform, tools, etc.
+  Technical Skills:
+    - RDBMS/SQL
+    - Data Modeling/Mapping
+    - Data Analytics
+    - Python 
+    - Excel
+    - Google Cloud Platform
+    - Bash
+    - Git
+    - Docker
+
+# List of Jarvis projects
+# Please describe your resume from a BSA perspective (e.g. requirement elicitation, scope, stakeholder, coordination, diagrams)
+jarvis_projects:
+  - name: "Linux Cluster Resource Monitoring App"
+    git_url: "/linux_sql"
+    # Focus on BSA work instead of development work
+    # Include the following keywords: BRD, SRD, Elicitation, stakeholder, reqruiement, analysis, RDBMS, SQL, data modeling, SLA
+    description: Linux Cluster Resource Monitoring App is used by the linux cluster agents to collect hardware specifications and resource usage information.  I prepared the business requirement documents (BRD) to show the basic requirements, the project objectives, the need statement, project scope, the programming language, identified the  stakeholders and performed elicitation through open interview, drew the project timeline/milestone/deadline and the cost benefit analysis. I also prepared the System requirement document (SRD) to show the  behaviour of the system, the functional and non-functional requirement, created data models and ER-diagram to show how different entities are related and the use case diagram to show the functional behaviours .
+#  - name: "Python Data Analytics"
+#    git_url: "/python_data_anlytics"
+#    # Focus on BSA work instead of development work
+#    # e.g. solve business problem, requirement, data sources, analytics, stakeholders, documentation
+#    description: ""
+#  - name: "Hadoop"
+#    git_url: "/hadoop"
+#    description: ""
+
+# List of personal or academic projects
+# Please focus on transferable skills, such as soft skills and data related skills
+highlighted_projects:
+    #project name
+  - name: "Credit card default Predictor"
+    #URL is optional
+    git_url: "https://github.com/write2nk/Unit2-example"
+    # The project description must start with an action verb (https://bit.ly/3guO98u)
+    description: Implemented an XGBoost model to predict customers who will default on their credit card payments. The project was implemented using Python, Git, Dash, and an XGBoost machine learning model. The predictors used include Limited Balance, Total bill, Total paid, Payment Level, Age, and Education level. The model was trained and tested using a real-world dataset obtained from the UCI repository. The predictive result showed a 94% accuracy. The project was deployed to Heroku..
+
+# List of professional experience
+# Please focus on transferable skills, such as soft skills and data related skills
+professional_experience:
+  #Write your Jarvis role as a professional experience rather than training.
+  - title: "Software Developer"
+    company: "Jarvis"
+    duration: "2022-present"
+    # The project description must start with an action verb (https://bit.ly/3guO98u)
+    # Avoid the following terms: training, learning, etc. Instead, you should focus on the work, such as worked on XYY; Wrote ABC document; Analyzed QWE project;
+    description: "Worked in an Agile/scrum environment to implement software solutions, prepared BRD and SRD following the system design best practices using techniques such as data modeling, data analysis,  data mapping, solution design tools such as use case diagram, flowchart, activity diagram, and technologies like SQL, Python, Git."
+  - title: "Asst. Program Coordinator"
+    company: "Nile University"
+    duration: "2019 - 2021"
+    description: "Led to planning and coordination of programs and other academic activities. Prepared funding proposals for grants and other sources. "
+
+#List of edcuation
+education: 
+  - school_name: "Ebonyi State University"
+    duration: "2011-2015"
+    degree: "Bachelor of Sciences"
+    department: "Computer Science"
+    # optional
+    awards_achievements: 
+      - "GPA: 4.19/5.0"
+  - school_name: "African University of Science and Technology"
+    duration: "2016-2017"
+    degree: "Master of Sciences"
+    department: "Computer Science"
+    awards_achievements: 
+      - "GPA: 3.5/4"
+      - "African Capacity Building Foundation Scholarship Award"
+#Optional section
+others:
+    #category
+  - title: "Certificates"
+    #list of items
+    bullets:
+      - "Udacity Frontend Web Development (2018)"
+  - title: "Activities/Hobbies"
+    bullets:
+      - "Volunteer, Masakhane NER data annotation"
+      - "Data Science Training, ICTP"
