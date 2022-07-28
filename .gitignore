@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 target/
 *.class
 *.jar
@@ -7,3 +8,14 @@ target/
 *.iml
 .idea/
 .eclipse
+=======
+target/
+*.class
+*.jar
+*.war
+*.ear
+*.logs
+*.iml
+.idea/
+.eclipse
+>>>>>>> feature/bsa_profile

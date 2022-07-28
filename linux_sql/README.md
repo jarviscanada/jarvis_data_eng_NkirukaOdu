@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 nux Cluster Monitoring Agent ```
 
 # Introduction
@@ -155,3 +156,6 @@ The objetive of the project was well achieved but there are more to be done to a
 - Creates a table that computes the most busy and idel time of the cpu
 - Add more data to be collected by the LCMA
 - Build anlytics system that provides better insights on the hardwarre and its  usage
+=======
+
+>>>>>>> feature/bsa_profile
