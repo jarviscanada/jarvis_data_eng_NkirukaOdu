@@ -17,7 +17,7 @@ Project source code: [https://github.com/jarviscanada/jarvis_data_eng_NkirukaOdu
 
 
 ## Highlighted Projects
-**Credit card default Predictor** [[GitHub](https://github.com/write2nk/Unit2-example)]: Implemented an XGBoost model to predict customers who will default on their credit card payments. I prepared the BRD to ensure a proper plan and implementation of the project. I used Pandas for data analysis and Matplotlib for data visualization and presentation. Python, Git, Dash, and an XGBoost model for the implementation. The predictors used include Limited Balance, Total bill, Total paid, Payment Level, Age, and Education level. The model was trained and tested using a real-world dataset obtained from the UCI repository. The predictive result showed a 94% accuracy. The project was deployed to Heroku
+**Credit card default Predictor** [[GitHub](https://github.com/write2nk/Unit2-example)]: Implemented an XGBoost model to predict customers who will default on their credit card payments. I prepared the BRD to ensure a proper plan and implementation of the project. I used Pandas for data analysis and Matplotlib for data visualization and presentation. Python, Git, Dash, and an XGBoost model for the implementation. The predictors used include Limited Balance, Total bill, Total paid, Payment Level, Age, and Education level. The model was trained and tested using a real-world dataset obtained from the UCI repository. The predictive result showed a 94% accuracy. The project was deployed to Heroku.
 
 
 ## Professional Experiences

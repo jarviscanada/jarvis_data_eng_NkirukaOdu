@@ -61,7 +61,7 @@ highlighted_projects:
     #URL is optional
     git_url: "https://github.com/write2nk/Unit2-example"
     # The project description must start with an action verb (https://bit.ly/3guO98u)
-    description: Implemented an XGBoost model to predict customers who will default on their credit card payments. I prepared the BRD to ensure a proper plan and implementation of the project. I used Pandas for data analysis and Matplotlib for data visualization and presentation. Python, Git, Dash, and an XGBoost model for the implementation. The predictors used include Limited Balance, Total bill, Total paid, Payment Level, Age, and Education level. The model was trained and tested using a real-world dataset obtained from the UCI repository. The predictive result showed a 94% accuracy. The project was deployed to Heroku
+    description: Implemented an XGBoost model to predict customers who will default on their credit card payments. I prepared the BRD to ensure a proper plan and implementation of the project. I used Pandas for data analysis and Matplotlib for data visualization and presentation. Python, Git, Dash, and an XGBoost model for the implementation. The predictors used include Limited Balance, Total bill, Total paid, Payment Level, Age, and Education level. The model was trained and tested using a real-world dataset obtained from the UCI repository. The predictive result showed a 94% accuracy. The project was deployed to Heroku.
 
 # List of professional experience
 # Please focus on transferable skills, such as soft skills and data related skills
