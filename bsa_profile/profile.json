@@ -36,7 +36,7 @@
     },
     {
       "description": "This project focused on analysing the customer's shopping behavior of an online store to help the business owner understand their customers' behaviour in order to develop good sales and marketing strategies that can increase their revenue. I performed the requirement elicitation by gathering information from the stakeholders. Data was fetched from the company's PSQL data warehouse in the cloud. I performed the data wrangling and analytics processes and properly documented the analytical results that enhanced their business decision which helped them to improve their business strategies and increased their revenue. Project was implemented using Python programming and its libraries: Numpy, Pandas, Matplotlib, and SQLAchemy on a Jupyter notebook.",
-      "git_url": "/python_data_anlytics",
+      "git_url": "/python_data_analytics",
       "name": "Python Data Analytics"
     }
   ],
