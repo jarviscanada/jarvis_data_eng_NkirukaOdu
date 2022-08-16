@@ -41,4 +41,4 @@ Project source code: [https://github.com/jarviscanada/jarvis_data_eng_NkirukaOdu
 ## Miscellaneous
 - Udacity Frontend Web Development (2018)
 - Volunteer, Masakhane NER data annotation
-- Data Science Training, ICTP
+- Data Science Training, ICTP (2019)
