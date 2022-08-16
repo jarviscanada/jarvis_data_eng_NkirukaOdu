@@ -1,0 +1,108 @@
+# Preferred name (Characters only)
+name: "Nkiruka Odu"
+# Your GitHub repo root URL
+github_repo_root_url: https://github.com/jarviscanada/jarvis_data_eng_NkirukaOdu
+
+# Introduce yourself (80-120 words)
+# Suggestions: you should 
+# 1) describe your academic and work experience (please focus on transferable/job related tech and soft skills only)
+# 2) explain your passion for the role you are looking for (e.g. developer, BSA, QA, tech support, etc.)
+# 3) mention what kind of role you are looking for
+# 4) briefly talk about your qualifications (soft and tech) to justify why the hiring manager should hire your 
+summary: Interfacing between business and technology interests me a lot. I obtained a master's degree in Computer Science from the African University of Science and Technology. I have about three years of working experience as an assistant program coordinator at Nile University. I have developed good communication, collaboration, documentation, and presentation skills through team collaboration to prepare project proposals and organize other academic activities. I am passionate about working in an environment where I can actively collaborate with other team members to develop efficient business information technology systems by fostering the active use of emerging technologies and techniques to help them achieve strategic business goals. I am currently seeking a full-time role as a Business System Analyst (BSA). Working as a junior BSA at Jarvis gave me a good opportunity to work in an Agile/Scrum environment. I have developed skills such as documentation, presentation, analytical thinking, requirement elicitation, and interpersonal and confrontation skills by working on different projects to provide business solutions using the latest technologies such as Python(Pandas, Numpy, Matplotlib), SQL, Data Mapping, Data modeling, and Git/Github. Learning new skills and how to apply them to solve real-world problems motivates me a lot!
+
+skills:
+  # Please include 
+  #     1)soft skills (e.g. elicitation, communicaiton, collaberation, interpersonal, etc ) 
+  #     2) business tools (such as Excel, Viso, etc.)
+  Business Skills:
+    - Interpersonal 
+    - Communication
+    - Documentaion/Presentation
+    - Requirement Elicitation
+    - Problem Solving
+    - Agile/Scrum
+  # Please add more data related skills, such as Python, Tableau, R, Matlab, AI, ML, Statistics, etc.
+  # You can also add some programming skills, such as programming languages, GIT, Linux, Cloud Platform, tools, etc.
+  Technical Skills:
+    - RDBMS/SQL
+    - Data Modeling/Mapping
+    - Data Analytics
+    - Python, Pandas, Numpy
+    - Excel
+    - Draw.io
+    - Google Cloud Platform
+    - Bash
+    - HTML/CSS
+    - Git/Github
+    - Docker
+
+# List of Jarvis projects
+# Please describe your resume from a BSA perspective (e.g. requirement elicitation, scope, stakeholder, coordination, diagrams)
+jarvis_projects:
+  - name: "Linux Cluster Resource Monitoring App"
+    git_url: "/linux_sql"
+    # Focus on BSA work instead of development work
+    # Include the following keywords: BRD, SRD, Elicitation, stakeholder, reqruiement, analysis, RDBMS, SQL, data modeling, SLA
+    description: The Linux Cluster Resource Monitoring App is used by the Linux cluster agents to collect hardware specifications and resource usage information. I prepared the business requirement documents (BRD) to show the basic requirements, the project objectives, the need statement, project scope, and programming language, identified the stakeholders and performed elicitation through open interviews, outlined the project timeline/milestone/deadline, and the cost-benefit analysis. I also prepared the System requirement document (SRD) to show the system's behavior and the functional and non-functional requirements. I wrote some SQL statements and created data models and ER diagrams to show how different entities are related and the use case diagram to show the functional behaviors.
+  - name: "Python Data Analytics"
+    git_url: "/python_data_analytics"
+#    # Focus on BSA work instead of development work
+#    # e.g. solve business problem, requirement, data sources, analytics, stakeholders, documentation
+    description: "This project focused on analysing the customer's shopping behavior of an online store to help the business owner understand their customers' behaviour in order to develop good sales and marketing strategies that can increase their revenue. I performed the requirement elicitation by gathering information from the stakeholders. Data was fetched from the company's PSQL data warehouse in the cloud. I performed the data wrangling and analytics processes and properly documented the analytical results that enhanced their business decision which helped them to improve their business strategies and increased their revenue. Project was implemented using Python programming and its libraries: Numpy, Pandas, Matplotlib, and SQLAchemy on a Jupyter notebook."
+#  - name: "Hadoop"
+#    git_url: "/hadoop"
+#    description: ""
+
+# List of personal or academic projects
+# Please focus on transferable skills, such as soft skills and data related skills
+highlighted_projects:
+    #project name
+  - name: "Credit card default Predictor"
+    #URL is optional
+    git_url: "https://github.com/write2nk/Unit2-example"
+    # The project description must start with an action verb (https://bit.ly/3guO98u)
+    description: Implemented an XGBoost model to predict customers who will default on their credit card payments. I prepared the BRD to ensure a proper plan and implementation of the project. I used Pandas for data analysis and Matplotlib for data visualization and presentation. Python, Git, Dash, and an XGBoost model for the implementation. The predictors used include Limited Balance, Total bill, Total paid, Payment Level, Age, and Education level. The model was trained and tested using a real-world dataset obtained from the UCI repository. The predictive result showed a 94% accuracy. The project was deployed to Heroku.
+
+# List of professional experience
+# Please focus on transferable skills, such as soft skills and data related skills
+professional_experience:
+  #Write your Jarvis role as a professional experience rather than training.
+  - title: "Junior Business System Analyst"
+    company: "Jarvis"
+    duration: "2022-present"
+    # The project description must start with an action verb (https://bit.ly/3guO98u)
+    # Avoid the following terms: training, learning, etc. Instead, you should focus on the work, such as worked on XYY; Wrote ABC document; Analyzed QWE project;
+    description: "Worked in an Agile/Scrum environment to implement software solutions, prepared BRD and SRD following the software design best practices using techniques such as data modeling, data analysis, data mapping, solution design tools such as use case diagram, flowchart, activity diagram, and technologies like SQL, Python, Docker, and Git."
+  - title: "Asst. Program Coordinator"
+    company: "Nile University"
+    duration: "2019 - 2021"
+    description: "Led to planning and coordination of programs, prepared funding proposals for grants and other sources through requirement elicitation, and stakeholder analysis, and documented and presented the manuscript for approval before submission. Led team to organize academic activities and outreaches, ensured that all requirements are completed timely before the specified deadline."
+
+#List of edcuation
+education: 
+  - school_name: "Ebonyi State University"
+    duration: "2011-2015"
+    degree: "Bachelor of Sciences"
+    department: "Computer Science"
+    # optional
+    awards_achievements: 
+      - "GPA: 4.19/5.0"
+  - school_name: "African University of Science and Technology"
+    duration: "2016-2017"
+    degree: "Master of Sciences"
+    department: "Computer Science"
+    awards_achievements: 
+      - "GPA: 3.5/4"
+      - "African Capacity Building Foundation Scholarship Award"
+#Optional section
+others:
+    #category
+  - title: "Certificates"
+    #list of items
+    bullets:
+      - "Udacity Frontend Web Development (2018)"
+  - title: "Activities/Hobbies"
+    bullets:
+      - "Volunteer, Masakhane NER data annotation"
+      - "Data Science Training, ICTP"
