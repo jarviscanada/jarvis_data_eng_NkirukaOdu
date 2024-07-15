@@ -25,16 +25,28 @@ Project source code: [https://github.com/jarviscanada/jarvis_data_eng_NkirukaOdu
 
 **Business System Analyst, Jarvis (2022-present)**: **Project Scope:** The project was aimed at automating the code deliveries process on ISPW for MainFrame(MF) applications to help save cost on RUN resources  and manual efforts for the team at the Bank of Montreal (BMO).
 - Collaborated with a cross-functional scrum team to identify technical business problems and opportunities for improvement that can be addressed through automation. This led to 40% of the processes being streamlined.
-- Eliciting requirements from the stakeholders and converting them to user stories in JIRA while maintaining and prioritizing the product backlog
+- Elicited requirements from the stakeholders and converting them to user stories in JIRA while maintaining and prioritizing the product backlog
 - Organized walkthrough sessions with MF application development teams and other stakeholders to discuss opportunities in ISPW automation which lead to less dependency on PROD support teams for implementations by 47%
 - Worked across teams to move MF applications delivery from being manually run to automated delivery which helped to eliminate approx 3500 hours of manual effort involved in PROD MF deploys
 - Used data reporting and visualization tools to analyze change and Incident records charged by the TCS by using SQL and advanced excel to ensure accurate decisions are made 
-- Managing Service Now ticket systems for the MF Application support team to track PRB and other CTASKs
-- Creating user manuals, training guides, product documentations and KB articles to ensure a smooth transition of changes from manual delivery to automated delivery on ISPW
+- Managed Service Now ticket systems for the MF Application support team to track  Change records(CRs) and Incident Record(IRs)
+- Created user manuals, training guides, product documentations and KB articles to ensure a smooth transition of changes from manual delivery to automated delivery on ISPW
 - Assisted in UAT by ensuring that all test cases were mapped to acceptance criteria, leading to 46% increase in development quality.
 
 
-**Asst. Program Coordinator, Nile University (2019 - 2021)**: Led to planning and coordination of programs, prepared funding proposals for grants and other sources through requirement elicitation, and stakeholder analysis, and documented and presented the manuscript for approval before submission. Led team to organize academic activities and outreaches, ensured that all requirements are completed timely before the specified deadline.
+
+**Program Coordinator, Nile University (2019 - 2021)**: 
+- Led to planning and coordination of programs, prepared funding proposals for grants and other sources through requirement elicitation, and stakeholder analysis, and documented and presented the manuscript for approval before submission which led to successful grants.
+- Led team to organize academic activities and outreaches, ensured that all requirements are completed timely before the specified deadline.
+- Collaborated with the IT teams to improve the student management system(SMS), to enhance user experience and interface, increasing system efficiency while boosting user retention rate by 30%.
+
+**Business Process Analyst, RFID Research & Development Centre (2017 - 2018):**
+**Project Focus:** This project involved research and development to implement machine learning models on RFID-enabled student’s management system
+- Documented current state processes and identified gaps while working with the development team to determine an effective future state.
+- Conducted user interviews with the intended students(users) and other stakeholders to elicit and document clear functional and non-functional requirements. 
+- Designed low-fidelity mock-ups using Balsamiq to illustrate User Interface to the development team
+- Led scrum team to ensure the accurate delivery of key features and functionalities by being voice of customer (VOC)
+- Participated in UAT to ensure that all test cases were mapped to Acceptance criteria, this led to 40% increase in development quality. 
 
 
 ## Education
