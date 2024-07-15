@@ -23,7 +23,8 @@ Project source code: [https://github.com/jarviscanada/jarvis_data_eng_NkirukaOdu
 
 ## Professional Experiences
 
-**Business System Analyst, Jarvis (2022-present)**: **Project Scope:** The project was aimed at automating the code deliveries process on ISPW for MainFrame(MF) applications to help save cost on RUN resources  and manual efforts for the team at the Bank of Montreal (BMO).
+**Business System Analyst, Jarvis (2022-present)**: 
+**Project Scope:** The project was aimed at automating the code deliveries process on ISPW for MainFrame(MF) applications to help save cost on RUN resources  and manual efforts for the team at the Bank of Montreal (BMO).
 - Collaborated with a cross-functional scrum team to identify technical business problems and opportunities for improvement that can be addressed through automation. This led to 40% of the processes being streamlined.
 - Elicited requirements from the stakeholders and converting them to user stories in JIRA while maintaining and prioritizing the product backlog
 - Organized walkthrough sessions with MF application development teams and other stakeholders to discuss opportunities in ISPW automation which lead to less dependency on PROD support teams for implementations by 47%
@@ -40,7 +41,7 @@ Project source code: [https://github.com/jarviscanada/jarvis_data_eng_NkirukaOdu
 - Led team to organize academic activities and outreaches, ensured that all requirements are completed timely before the specified deadline.
 - Collaborated with the IT teams to improve the student management system(SMS), to enhance user experience and interface, increasing system efficiency while boosting user retention rate by 30%.
 
-**Business Process Analyst, RFID Research & Development Centre (2017 - 2018):**
+**Business Process Analyst, RFID Research & Development Centre (2017 - 2018):** <br>
 **Project Focus:** This project involved research and development to implement machine learning models on RFID-enabled student’s management system
 - Documented current state processes and identified gaps while working with the development team to determine an effective future state.
 - Conducted user interviews with the intended students(users) and other stakeholders to elicit and document clear functional and non-functional requirements. 
