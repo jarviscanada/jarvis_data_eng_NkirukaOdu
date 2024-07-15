@@ -36,6 +36,7 @@ skills:
     - HTML/CSS
     - Git/Github
     - Docker
+    - Service Now ticketing system
 
 # List of Jarvis projects
 # Please describe your resume from a BSA perspective (e.g. requirement elicitation, scope, stakeholder, coordination, diagrams)
@@ -68,12 +69,12 @@ highlighted_projects:
 # Please focus on transferable skills, such as soft skills and data related skills
 professional_experience:
   #Write your Jarvis role as a professional experience rather than training.
-  - title: "Junior Business System Analyst"
+  - title: "Business Analyst"
     company: "Jarvis"
     duration: "2022-present"
     # The project description must start with an action verb (https://bit.ly/3guO98u)
     # Avoid the following terms: training, learning, etc. Instead, you should focus on the work, such as worked on XYY; Wrote ABC document; Analyzed QWE project;
-    description: "Worked in an Agile/Scrum environment to implement software solutions, prepared BRD and SRD following the software design best practices using techniques such as data modeling, data analysis, data mapping, solution design tools such as use case diagram, flowchart, activity diagram, and technologies like SQL, Python, Docker, and Git."
+    description: "The project was aimed at automating the code deliveries process on ISPW for MainFrame(MF) applications to help save cost on RUN resources  and manual efforts for the team at the Bank of Montreal (BMO). "
   - title: "Asst. Program Coordinator"
     company: "Nile University"
     duration: "2019 - 2021"
