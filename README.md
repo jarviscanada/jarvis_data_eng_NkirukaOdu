@@ -5,7 +5,7 @@ Interfacing between business and technology interests me a lot. I obtained a mas
 
 **Business Skills:** Interpersonal, Communication, Documentaion/Presentation, Requirement Elicitation, Problem Solving, Agile/Scrum, Stakeholder Management,Process mapping
 
-**Technical Skills:** RDBMS/SQL, Data Modeling/Mapping, Data Analytics, Python, Pandas, Numpy, Advanced Excel,Tablaeu, Draw.io, Visio, Google Cloud Platform, BashProcess mapping, HTML/CSS, Git/Github, Docker. ServiceNow ticket systems, User Acceptance Testing(UAT),
+**Technical Skills:** RDBMS/SQL, Data Modeling/Mapping, Data Analytics, Python, Pandas, Numpy, Advanced Excel,Tablaeu, Draw.io, Visio, Google Cloud Platform, BashProcess mapping, HTML/CSS, Git/Github, Docker. ServiceNow ticket systems, User Acceptance Testing(UAT),Product Backlog Creation, Training  - User guides, KB Articles, Salesforce & ERP Application, Use case diagram & Storytelling
 
 ## Jarvis Projects
 
@@ -23,7 +23,7 @@ Project source code: [https://github.com/jarviscanada/jarvis_data_eng_NkirukaOdu
 
 ## Professional Experiences
 
-**Business System Analyst, Jarvis (2022-present)**: 
+**Business Analyst, Jarvis (2022-present)**: <br>
 **Project Scope:** The project was aimed at automating the code deliveries process on ISPW for MainFrame(MF) applications to help save cost on RUN resources  and manual efforts for the team at the Bank of Montreal (BMO).
 - Collaborated with a cross-functional scrum team to identify technical business problems and opportunities for improvement that can be addressed through automation. This led to 40% of the processes being streamlined.
 - Elicited requirements from the stakeholders and converting them to user stories in JIRA while maintaining and prioritizing the product backlog
@@ -41,7 +41,7 @@ Project source code: [https://github.com/jarviscanada/jarvis_data_eng_NkirukaOdu
 - Led team to organize academic activities and outreaches, ensured that all requirements are completed timely before the specified deadline.
 - Collaborated with the IT teams to improve the student management system(SMS), to enhance user experience and interface, increasing system efficiency while boosting user retention rate by 30%.
 
-**Business Process Analyst, RFID Research & Development Centre (2017 - 2018):** <br>
+**Customer Experience Analyst, RFID Research & Development Centre (2017 - 2018):** <br>
 **Project Focus:** This project involved research and development to implement machine learning models on RFID-enabled student’s management system
 - Documented current state processes and identified gaps while working with the development team to determine an effective future state.
 - Conducted user interviews with the intended students(users) and other stakeholders to elicit and document clear functional and non-functional requirements. 
