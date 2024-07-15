@@ -4,9 +4,9 @@ Interfacing between business and technology interests me a lot. I obtained a mas
 
 ## Skills
 
-**Business Skills:** Interpersonal, Communication, Documentaion/Presentation, Requirement Elicitation, Problem Solving, Agile/Scrum
+**Business Skills:** Interpersonal, Communication, Documentaion/Presentation, Requirement Elicitation, Problem Solving, Agile/Scrum, Stakeholder Management,Process mapping
 
-**Technical Skills:** RDBMS/SQL, Data Modeling/Mapping, Data Analytics, Python, Pandas, Numpy, Excel, Draw.io, Google Cloud Platform, Bash, HTML/CSS, Git/Github, Docker
+**Technical Skills:** RDBMS/SQL, Data Modeling/Mapping, Data Analytics, Python, Pandas, Numpy, Advanced Excel,Tablaeu, Draw.io, Visio, Google Cloud Platform, BashProcess mapping, HTML/CSS, Git/Github, Docker. ServiceNow ticket systems, User Acceptance Testing(UAT),
 
 ## Jarvis Projects
 
@@ -24,7 +24,7 @@ Project source code: [https://github.com/jarviscanada/jarvis_data_eng_NkirukaOdu
 
 ## Professional Experiences
 
-**Junior Business System Analyst, Jarvis (2022-present)**: Worked in an Agile/Scrum environment to implement software solutions, prepared BRD and SRD following the software design best practices using techniques such as data modeling, data analysis, data mapping, solution design tools such as use case diagram, flowchart, activity diagram, and technologies like SQL, Python, Docker, and Git.
+**Business System Analyst, Jarvis (2022-present)**: 
 
 **Asst. Program Coordinator, Nile University (2019 - 2021)**: Led to planning and coordination of programs, prepared funding proposals for grants and other sources through requirement elicitation, and stakeholder analysis, and documented and presented the manuscript for approval before submission. Led team to organize academic activities and outreaches, ensured that all requirements are completed timely before the specified deadline.
 
