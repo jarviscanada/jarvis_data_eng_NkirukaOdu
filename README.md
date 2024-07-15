@@ -1,7 +1,6 @@
 # Nkiruka Odu . Jarvis Consulting
 
-Interfacing between business and technology interests me a lot. I obtained a master's degree in Computer Science from the African University of Science and Technology. I have about three years of working experience as an assistant program coordinator at Nile University. I have developed good communication, collaboration, documentation, and presentation skills through team collaboration to prepare project proposals and organize other academic activities. I am passionate about working in an environment where I can actively collaborate with other team members to develop efficient business information technology systems by fostering the active use of emerging technologies and techniques to help them achieve strategic business goals. I am currently seeking a full-time role as a Business System Analyst (BSA). Working as a junior BSA at Jarvis gave me a good opportunity to work in an Agile/Scrum environment. I have developed skills such as documentation, presentation, analytical thinking, requirement elicitation, and interpersonal and confrontation skills by working on different projects to provide business solutions using the latest technologies such as Python(Pandas, Numpy, Matplotlib), SQL, Data Mapping, Data modeling, and Git/Github. Learning new skills and how to apply them to solve real-world problems motivates me a lot!
-
+Interfacing between business and technology interests me a lot. I obtained a master's degree in Computer Science from the African University of Science and Technology. I have about three years of working experience as a program coordinator at Nile University. I have developed good communication, collaboration, documentation, and presentation skills through team collaboration to prepare project proposals and organize other academic activities. I am passionate about working in an environment where I can actively collaborate with other team members to develop efficient business information technology systems by fostering the active use of emerging technologies and techniques to help them achieve strategic business goals. I am currently seeking a full-time role as a Business System Analyst (BSA). 
 ## Skills
 
 **Business Skills:** Interpersonal, Communication, Documentaion/Presentation, Requirement Elicitation, Problem Solving, Agile/Scrum, Stakeholder Management,Process mapping
@@ -24,7 +23,16 @@ Project source code: [https://github.com/jarviscanada/jarvis_data_eng_NkirukaOdu
 
 ## Professional Experiences
 
-**Business System Analyst, Jarvis (2022-present)**: 
+**Business System Analyst, Jarvis (2022-present)**: **Project Scope:** The project was aimed at automating the code deliveries process on ISPW for MainFrame(MF) applications to help save cost on RUN resources  and manual efforts for the team at the Bank of Montreal (BMO).
+- Collaborated with a cross-functional scrum team to identify technical business problems and opportunities for improvement that can be addressed through automation. This led to 40% of the processes being streamlined.
+- Eliciting requirements from the stakeholders and converting them to user stories in JIRA while maintaining and prioritizing the product backlog
+- Organized walkthrough sessions with MF application development teams and other stakeholders to discuss opportunities in ISPW automation which lead to less dependency on PROD support teams for implementations by 47%
+- Worked across teams to move MF applications delivery from being manually run to automated delivery which helped to eliminate approx 3500 hours of manual effort involved in PROD MF deploys
+- Used data reporting and visualization tools to analyze change and Incident records charged by the TCS by using SQL and advanced excel to ensure accurate decisions are made 
+- Managing Service Now ticket systems for the MF Application support team to track PRB and other CTASKs
+- Creating user manuals, training guides, product documentations and KB articles to ensure a smooth transition of changes from manual delivery to automated delivery on ISPW
+- Assisted in UAT by ensuring that all test cases were mapped to acceptance criteria, leading to 46% increase in development quality.
+
 
 **Asst. Program Coordinator, Nile University (2019 - 2021)**: Led to planning and coordination of programs, prepared funding proposals for grants and other sources through requirement elicitation, and stakeholder analysis, and documented and presented the manuscript for approval before submission. Led team to organize academic activities and outreaches, ensured that all requirements are completed timely before the specified deadline.
 
